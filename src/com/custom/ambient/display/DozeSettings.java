@@ -27,7 +27,7 @@ import android.support.v14.preference.PreferenceFragment;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
 
-import com.aosip.support.preference.CustomSeekBarPreference;
+import com.zen.support.preferences.CustomSeekBarPreference;
 
 public class DozeSettings extends PreferenceActivity implements PreferenceFragment.OnPreferenceStartFragmentCallback {
 
